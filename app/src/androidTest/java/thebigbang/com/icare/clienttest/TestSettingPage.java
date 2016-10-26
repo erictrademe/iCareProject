@@ -39,7 +39,7 @@ public class TestSettingPage {
     @Test
     public void CheckUserProfile()
     {
-        mCurrentPage.is(SettingPage.class).CheckUserProfile();
+        mCurrentPage.is(SettingPage.class).ChangeSettings();
 
     }
 
