@@ -11,6 +11,7 @@ import org.junit.runner.RunWith;
 import thebigbang.com.icare.Activities.HomeScreenActivity;
 import thebigbang.com.icare.screens.BasePage;
 import thebigbang.com.icare.screens.LoginPage;
+import thebigbang.com.icare.screens.NewProfilePage;
 
 /**
  * Created by ericzhong on 25/10/16.
@@ -37,20 +38,24 @@ public class TestLoginPage {
 
 
     @Test
-    public void UserLoginPage()
+    public void LoginAndClickMenu()
     {
         mCurrentPage.is(LoginPage.class).LoginPageTest();
-
+        //mCurrentPage.is(LoginPage.class).clickmenu();
+        mCurrentPage = mCurrentPage.is(LoginPage.class).clickprofilebutton();
+        mCurrentPage.is(NewProfilePage.class).FillProfile();
+        mCurrentPage.is(NewProfilePage.class).Save();
 
 
     }
 
 
-    @Test
+/*    @Test
     public void ClickMenu()
     {
         mCurrentPage.is(LoginPage.class).clickmenu();
 
     }
+*/
 
 }

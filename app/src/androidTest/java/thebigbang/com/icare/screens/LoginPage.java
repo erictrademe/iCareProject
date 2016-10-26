@@ -39,6 +39,14 @@ public class LoginPage extends BasePage {
 
     }
 
+    public NewProfilePage clickprofilebutton()
+    {
+
+        onView(withId(R.id.tvAddNew)).perform(click());
+        return new NewProfilePage();
+
+    }
+
 
 
 }
