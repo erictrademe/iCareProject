@@ -5,7 +5,7 @@ package thebigbang.com.icare.screens;
  */
 
 
-public class BasePage {
+public abstract  class BasePage extends LoadableComponent {
 
     public <T extends BasePage> T is(Class<T> type) {
         if (type.isInstance(this)) {
@@ -22,4 +22,8 @@ public class BasePage {
             super(message);
         }
     }
+
+
+
+
 }

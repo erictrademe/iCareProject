@@ -27,7 +27,7 @@ public class TestSettingPage {
 
     public TestSettingPage()
     {
-        this.mActivityRule.launchActivity(new Intent());
+
 
     }
 

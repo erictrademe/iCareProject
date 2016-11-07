@@ -18,6 +18,17 @@ public class SettingPage extends BasePage{
 
 
     }
+
+    @Override
+    public boolean isLoaded() {
+        return false;
+    }
+
+    @Override
+    public void load() {
+
+    }
+
     public void ChangeSettings()
 
     {

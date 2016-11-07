@@ -1,0 +1,26 @@
+如何确定case的执行顺序，如果一个class里有多个@TEST,还是说一般情况下，一个class里只放一个，然后放before, after
+
+每条case都要保护数据独立性，独立能跑，不依赖于其它CASE所产生的数据
+
+
+https://jabknowsnothing.wordpress.com/2015/11/05/activitytestrule-espressos-test-lifecycle/
+
+
+
+
+
+
+
+
+
+equivalent framework/utility on iOS
+
+common util for a automation testing framework\
+
+
+
+object or view on custom matcher
+
+when does string initialized
+
+https://github.com/marcosdiez/espresso_clone

@@ -255,12 +255,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/ericzhong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/ericzhong/Desktop/iCare/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_83ce4065118e7289ae921683515ae574a2dfde9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/ericzhong/Desktop/iCare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
         sha1="02bac2dc792d78241077861566f2c82da955e7fa">
         <dex dex="/Users/ericzhong/Desktop/iCare/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-7.5.0_d16157409d0534ec829a3c90c5ca1b7d5c4e6945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericzhong/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/ericzhong/Desktop/iCare/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_71fc719a3871ce2d95cf970abe18a4a10196762e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -453,6 +471,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/ericzhong/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/ericzhong/Desktop/iCare/app/build/intermediates/pre-dexed/debug/gson-2.7_cebdd71f57f6398886119318e903fe3214102bed.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/ericzhong/icare/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -504,6 +531,15 @@
         revision="24.0.3"
         sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
         <dex dex="/Users/ericzhong/icare/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-7.5.0_c926d0a70af145ba0b1bca315ced6f4e06253290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericzhong/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/ericzhong/Desktop/iCare/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_b9eea4a94e8ce4344be74fff44a8b6c2d9d6c4fe.jar" />
     </item>
     <item
         is-multidex="false"
@@ -630,6 +666,15 @@
         revision="24.0.3"
         sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
         <dex dex="/Users/ericzhong/Desktop/iCare/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_d4156eb84ad2ddd2035ac1890709747504e679e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ericzhong/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/ericzhong/Desktop/iCare/app/build/intermediates/pre-dexed/debug/okio-1.8.0_cbfb473a2024b1238f75cb47c168521b7054e875.jar" />
     </item>
     <item
         is-multidex="false"
